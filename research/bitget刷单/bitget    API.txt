@@ -1,0 +1,438 @@
+
+bitget交易所API录入
+API KEY_1:6b6f6914-b5dc-40e6-99ba-9ed060bb3edd
+API SECRET_1:ee4f463a-2277-45e7-bace-d2284fe18173
+API KEY_2:6e752102-bc9c-418b-ab17-a0926731a1ec
+API SECRET_2:fdf5a0ef-2532-456a-bc2b-5cd4c9d89014
+API KEY_3:  be3098aa-eef1-49f0-9960-511af05e2b55
+API SECRET_3:   4e4a4bc6-5744-42b9-8146-78a0a92632e6
+
+API_KEY_4:4cd06bf8-d973-4c63-a858-474c6d4f4aed
+API_SECRET_4:793a8816-21f4-4313-8c2b-524655910356
+
+
+
+bitget 币种
+ETH_USDT
+DOT_USDT
+LINK_USDT
+ADA_USDT
+DOGE_USDT
+XRP_USDT
+BCH_USDT
+UNI_USDT
+LTC_USDT
+ETC_USDT
+XLM_USDT
+OMG_USDT
+SOL_USDT
+TRX_USDT
+FIL_USDT
+EOS_USDT
+BSV_USDT
+SHIB_USDT
+XTZ_USDT
+
+eth_usdt
+{
+  "strategyId": 81,
+  "userUuid": "68",
+  "userId":     null,
+  "apiAccountId1":     10187,
+  "apiAccountId2":     10188,
+  "platform": "bitget",
+  "symbol": "eth_usdt",
+  "amount_min":     0.0002,
+  "amount_max":     0.002,
+  "order_amount":     2,
+  "allow_diffprice":   0.002,
+  "status":     1
+}
+
+
+dot_usdt
+{
+  "strategyId": 82,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "dot_usdt",
+  "amount_min":      0.01,
+  "amount_max":      0.1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+link_usdt
+{
+  "strategyId": 83,
+  "userUuid": "68",
+  "userId":     null,
+  "apiAccountId1":     10187,
+  "apiAccountId2":     10188,
+  "platform": "bitget",
+  "symbol": "link_usdt",
+  "amount_min":     0.01,
+  "amount_max":     0.1,
+  "order_amount":     2,
+  "allow_diffprice":   0.002,
+  "status":     1
+}
+
+ada_usdt
+
+{
+  "strategyId": 84,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "ada_usdt",
+  "amount_min":      0.1,
+  "amount_max":      1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+doge_usdt
+
+{
+  "strategyId": 85,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "doge_usdt",
+  "amount_min":      1,
+  "amount_max":      10,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+xrp_usdt
+
+{
+  "strategyId": 86,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "xrp_usdt",
+  "amount_min":      0.1,
+  "amount_max":      1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+bch_usdt
+{
+  "strategyId": 87,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "bch_usdt",
+  "amount_min":      0.001,
+  "amount_max":      0.01,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+uni_usdt
+{
+  "strategyId": 88,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "uni_usdt",
+  "amount_min":      0.01,
+  "amount_max":      0.1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+ltc_usdt
+{
+  "strategyId": 89,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "ltc_usdt",
+  "amount_min":      0.001,
+  "amount_max":      0.01,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+etc_usdt
+{
+  "strategyId": 90,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "etc_usdt",
+  "amount_min":      0.01,
+  "amount_max":      0.1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+xlm_usdt
+{
+  "strategyId": 91,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "xlm_usdt",
+  "amount_min":      1,
+  "amount_max":     10,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+omg_usdt
+{
+  "strategyId": 92,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "omg_usdt",
+  "amount_min":      0.1,
+  "amount_max":     1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+sol_usdt
+{
+  "strategyId": 93,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "sol_usdt",
+  "amount_min":      0.01,
+  "amount_max":     0.1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+trx_usdt
+{
+  "strategyId": 94,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "trx_usdt",
+  "amount_min":      10,
+  "amount_max":    100,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+fil_usdt
+{
+  "strategyId": 95,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "fil_usdt",
+  "amount_min":      10,
+  "amount_max":    100,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+eos_usdt
+{
+  "strategyId": 96,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "eos_usdt",
+  "amount_min":   0.1,
+  "amount_max":    1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+bsv_usdt
+{
+  "strategyId": 97,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "bsv_usdt",
+  "amount_min":   0.001,
+  "amount_max":    0.01,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+{
+  "strategyId": 102,
+  "userUuid": "68",
+  "userId":     null,
+  "apiAccountId1":     10187,
+  "apiAccountId2":     10188,
+  "platform": "bitget",
+  "symbol": "bsv_usdt",
+  "amount_min":   0.001,
+  "amount_max":  0.01,
+  "diffprice_min":     0.00000001,
+  "diffprice_max":    0.0000001,
+  "order_amount":     20,
+  "allow_diffprice":     0.1,
+  "status":     1
+}
+
+shib_usdt
+{
+  "strategyId": 98,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "shib_usdt",
+  "amount_min": 100000,
+  "amount_max":  1000000,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+{
+  "strategyId": 101,
+  "userUuid": "68",
+  "userId":     null,
+  "apiAccountId1":     10187,
+  "apiAccountId2":     10188,
+  "platform": "bitget",
+  "symbol": "shibi_usdt",
+  "amount_min":     100000,
+  "amount_max":    1000000,
+  "diffprice_min":     0.00000001,
+  "diffprice_max":    0.0000001,
+  "order_amount":     20,
+  "allow_diffprice":     0.00000001,
+  "status":     1
+}
+
+
+xtz_usdt
+
+{
+  "strategyId": 99,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "xtz_usdt",
+  "amount_min": 0.1,
+  "amount_max":  1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+{
+  "strategyId": 100,
+  "userUuid": "68",
+  "userId":     null,
+  "apiAccountId1":     10187,
+  "apiAccountId2":     10188,
+  "platform": "bitget",
+  "symbol": "xtz_usdt",
+  "amount_min":     0.1,
+  "amount_max":     1,
+  "diffprice_min":     0.0005,
+  "diffprice_max":     0.005,
+  "order_amount":     20,
+  "allow_diffprice":     0.004,
+  "status":     1
+}
+
+matic_usdt
+
+{
+  "strategyId": 80,
+  "userUuid": "68",
+  "userId":      null,
+  "apiAccountId1":      10187,
+  "apiAccountId2":      10188,
+  "platform": "bitget",
+  "symbol": "matic_usdt",
+  "amount_min":      0.1,
+  "amount_max":      1,
+  "order_amount":      2,
+  "allow_diffprice":    0.002,
+  "status":      1
+}
+
+
+{
+  "strategyId": 82,
+  "userUuid": "68",
+  "userId":     null,
+  "apiAccountId1":     10187,
+  "apiAccountId2":     10188,
+  "platform": "bitget",
+  "symbol": "matic_usdt",
+  "amount_min":     0.1,
+  "amount_max":     1,
+  "diffprice_min":     0.0005,
+  "diffprice_max":     0.005,
+  "order_amount":     20,
+  "allow_diffprice":     0.002,
+  "status":     1
+}
